@@ -24,7 +24,7 @@ I am a final-year BCA student and an **Intern at IIT Dharwad**, dedicated to bui
 ## 📬 Connect with me
 - 📧 **Email:** Shrinivasamasalavad@gmail.com
 - 📍 **Location:** Karnataka, India
--
+- 
 ### 🛠 Tech Stack & Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
