@@ -19,7 +19,7 @@ I am a final-year BCA student and an **Intern at IIT Dharwad**, dedicated to bui
 - **National Level Recognition:** Showcased innovations at **Vigyan Bhavan, New Delhi**.
 - **Patent-Pending Projects:** Working on innovative solutions for wildlife and agriculture.
 
----
+--- 
 
 ## 📬 Connect with me
 - 📧 **Email:** Shrinivasamasalavad@gmail.com
